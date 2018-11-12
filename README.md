@@ -1,2 +1,2 @@
-# Pizzawp
-# Pizzawp
+# Pizzawp small wordpress theme 
+
